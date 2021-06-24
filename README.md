@@ -1,2 +1,2 @@
 # learngit
-Create a new Branch is quicka AND simple.
+Create a new Branch is quicka & simple.
